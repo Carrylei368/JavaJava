@@ -63,7 +63,7 @@ public class HelloMvc {
 
     @ModelAttribute
     public void niu(){
-        System.out.println("每个方法执行前执行我");
+        System.out.println("每个方法执行前执行我111");
     }
 
     public void show(){
