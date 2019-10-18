@@ -66,5 +66,7 @@ public class HelloMvc {
         System.out.println("每个方法执行前执行我");
     }
 
-
+    public void show(){
+        System.out.println("这是第一个show");  
+    }
 }
